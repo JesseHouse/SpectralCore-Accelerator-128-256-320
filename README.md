@@ -28,3 +28,5 @@ markdown    → [Run the historic 944k-step notebook yourself](turbulence_128_ph
 Scaling to 320³ next. 
 
 Star this if you want to see the sequel!
+
+Enjoy this madness? Buy me a coffee → [paypal.me/rhouse84](https://paypal.me/rhouse84)
